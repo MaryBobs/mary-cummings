@@ -56,7 +56,7 @@
 
     .button-linkedin {
         @extend .button-icon;
-        background-image: ('../images/linkedin.png');
+        background-image: url('../images/linkedin.png');
     }
 
     .link {
