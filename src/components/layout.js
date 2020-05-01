@@ -10,7 +10,7 @@ export default ({children}) => (
         {children}
         </div>
         <Footer>
-            My new Blog 2020
+            Mary Cummings 2020
         </Footer>
     </div>
 )   

@@ -7,8 +7,8 @@ const HeaderLink = props => (
 )
 
 const HomeButton = props => (
-    <Link to={props.to}>
-        <div className={styles.button}>{props.text}</div>
+    <Link to={props.to} className={styles.linkHome}>
+        <div >{props.text}</div>
     </Link>
 )
 
@@ -56,14 +56,18 @@ export default () => (
 
                     <div className={styles.row}>
                         <HomeButton to="/" text={data.site.siteMetadata.title}/>
+                    </div>
+
+                    <div className={styles.row}>
+                        
                         <SocialButton site="github" username="marybobs"></SocialButton>
                         <SocialButton site="linkedin" username="mvcummings"></SocialButton>
                         <SocialButton site="twitter" username="marybobz"></SocialButton>
                     </div>
 
                     <div className={styles.row}>
-                        <HeaderLink to="/" text="ARTICLES"/>
-                        <HeaderLink to="/about" text="ABOUT"/>
+                        <HeaderLink to="/" text="Blog"/>
+                        <HeaderLink to="/about" text="About"/>
                     </div>
 
                 </header>
