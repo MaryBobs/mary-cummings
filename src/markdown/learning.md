@@ -1,22 +1,15 @@
 ---
-title: "Welcome to my new blog!"
-date: "2020-03-30"
-image: "https://source.unsplash.com/150x150/?reactjs"
+title: "Carry on Learning"
+date: "2020-04-20"
+image: "https://source.unsplash.com/150x150/?coding"
 keywords: "learning"
 ---
 
-#How to keep learning!
+#Back to School!
 
-**Cat ipsum dolor** sit amet, head nudges , and eat the rubberband. Hell is other people i'm going to lap some water out of my master's cup meow scream at teh bath or i bet my nine lives on you-oooo-ooo-hooo yet it's 3am, time to create some chaos so steal mom's crouton while she is in the bathroom paw your face to wake you up in the morning. Wake up human for food at 4am taco cat backwards spells taco cat, purr like a car engine oh yes, there is my human slave woman she does best pats ever that all i like about her hiss meow find something else more interesting. 
+The first few weeks after graduating from CodeClan I threw myself into job hunting and planned to continue learning alongside this by using online resources. However as more and more companies responded to say they were putting recruitment on hold, along with flat out rejections from others, I've refocussed how I prioritise my time a bit. I was applying for everything that interested me however unrealistic and the constant rejections were just soul destroying. Jobs are still being advertised but opportunities for new junior developers are extremely limited. Understandable at a time when companies are unsure about what the next few months will bring. I am of course still applying but I'm making learning my first priority until things start to pick up again and only applying for things that interest me and that realistically I might be considered for.
 
-##Skid on floor
+##Where to start
 
-*crash into wall rub whiskers on bare skin act innocent. Kitten is playing with dead mouse put butt in owner's face. Pounce on unsuspecting person. Plan steps for world domination hate dog as lick i the shoes caticus cuteicus pet me pet me pet me pet me, bite, scratch, why are you petting me and you call this cat food yet with tail in the air. Your pillow is now my pet bed give me some of your food give me some of your food give me some of your food meh, i don't want it, touch water with paw then recoil in horror cats are a queer kind of folk flee in terror at cucumber discovered on floor and meowing chowing and wowing. I vomit in the bed in the middle of the night. 
+I'm very grateful for the huge range on online resources out there but it can also be a bit overwhelming just knowing where to start and what to focus on. I think I wasted a couple of weeks trying different things every day, not always finishing some before a new exciting course or talk caught my eye. I've took a step back and decided to narrow my focus a bit to JavaScript and React for now as I really enjoy both. Though I'm still collecting a list of future courses and projects to explore when I have time!
 
-##I like fish
-
- chase after silly colored fish toys around the house yet cough hairball on conveniently placed pants mouse. Stand in front of the computer screen milk the cow but chase the pig around the house stare at owner accusingly then wink rub face on everything, but refuse to come home when humans are going to bed; stay out all night then yowl like i am dying at 4am. Hiiiiiiiiii feed me now. Scratch at fleas, meow until belly rubs, hide behind curtain when vacuum cleaner is on scratch strangers and poo on owners food hack up furballs eat an easter feather as if it were a bird then burp victoriously, but tender. Disappear for four days and return home with an expensive injury; 
- 
- ###bite the vet
- 
-  stare out cat door then go back inside has closed eyes but still sees you, so hey! you there, with the hands but my cat stared at me he was sipping his tea, too my left donut is missing, as is my right scream at teh bath. Lick butt and make a weird face walk on keyboard jump off balcony, onto stranger's head, cat dog hate mouse eat string barf pillow no baths hate everything ears back wide eyed. Kick up litter pet me pet me pet me pet me, bite, scratch, why are you petting me or attempt to leap between furniture but woefully miscalibrate and bellyflop onto the floor; what's your problem? i meant to do that now i shall wash myself intently the fat cat sat on the mat bat away with paws i shall purr myself to sleep.
