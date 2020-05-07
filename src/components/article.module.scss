@@ -30,6 +30,10 @@
             color: $color-pallete-3;
             margin-top: -20px;
 
+            &hover {
+                color: $color-pallete-2
+            }
+            
             .date {
                 margin-top: -15px;
                 margin-bottom: 20px;

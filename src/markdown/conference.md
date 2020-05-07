@@ -1,6 +1,6 @@
 ---
 title: "My first tech conference!"
-date: "2020-03-02"
+date: "2020-04-26"
 image: "https://source.unsplash.com/150x150/?conference"
 keywords: "conference"
 ---
