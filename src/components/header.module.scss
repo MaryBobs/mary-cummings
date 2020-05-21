@@ -15,7 +15,6 @@
     .button {
       background-color: $color-pallete-1;
         display: inline-block;
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
         font-size: 12px;
         text-transform: uppercase;
         color: white;
@@ -26,8 +25,8 @@
         padding-left: 10px;
         margin-right: 10px;
         padding-right: 10px;
-        margin-bottom: 5px;
-        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-top: 25px;
         border-radius: 50%;
 
         &:hover {
@@ -65,8 +64,8 @@
     .link {
         color: $color-pallete-1;
         text-transform: uppercase;
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
-        font-size: 17px;
+        font-family: 'Poiret One', cursive;
+        font-size: 24px;
         font-weight: bold;
         text-decoration: none;
 
@@ -82,7 +81,7 @@
 
     .link-home {
         @extend .link;
-        font-size: 40px;
+        font-size: 60px;
     }
 
 }

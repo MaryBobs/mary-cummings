@@ -21,7 +21,24 @@ module.exports = {
       }
     },
 
+    {
+      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      options: {
+        fonts: [
+          {
+            family: `Poiret One`,
+            variants: [`400`,`700`,`900`]
+          },
+          {
+            family: `Raleway`,
+            variants: [`400`]
+          }
+        ],
+      },
+    },
+
     'gatsby-transformer-remark'
   ]
 
 }
+
