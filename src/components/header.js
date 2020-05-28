@@ -28,6 +28,10 @@ const SocialButton = (props) => {
         style = styles.buttonGithub;
         url = "https://www.github.com/" + props.username;
     }
+    else if (props.site === 'instagram') {
+        style = styles.buttonInstagram;
+        url = "https://www.instagram.com/" + props.username
+    }
 
     return (
         <a href={url} target="_blank" rel="noopener noreferrer">
@@ -63,6 +67,7 @@ export default () => (
                         <SocialButton site="github" username="marybobs"></SocialButton>
                         <SocialButton site="linkedin" username="mvcummings"></SocialButton>
                         <SocialButton site="twitter" username="marybobz"></SocialButton>
+                        <SocialButton site="instagram" username="marybobz"></SocialButton>
                     </div>
 
                     <div className={styles.row}>

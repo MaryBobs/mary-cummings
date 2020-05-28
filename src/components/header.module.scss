@@ -51,12 +51,16 @@
     .button-twitter {
         @extend .button-icon;
         background-image: url('../images/twitter.png');
-        margin-right: 0px
     }
 
     .button-linkedin {
         @extend .button-icon;
         background-image: url('../images/linkedin.png');
+    }
+
+    .button-instagram {
+        @extend .button-icon;
+        background-image: url('../images/instagram.png');
     }
 
     
