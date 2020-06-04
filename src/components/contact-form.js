@@ -2,6 +2,9 @@ import React from 'react';
 import styles from './contact-form.module.scss';
 
 export default () => (
+    <div>
+        <p>You can contact me through my LinkedIn/Twitter/Instagram. Links at the top of the page below my name</p>
+        <p>Or send me a message through the form below.</p>
     <div className={styles.container}>
     <form className={styles.contactForm} method="post" action="https://formspree.io/mary@xr220.com">
         <p className={styles.to}>To: Mary Cummings</p>
@@ -27,5 +30,6 @@ export default () => (
         {/* <input className={styles.clearButton} type="reset" value="<<< Clear All" /> */}
         {/* </div> */}
     </form>
+    </div>
     </div>
 )
