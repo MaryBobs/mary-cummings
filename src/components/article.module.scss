@@ -1,7 +1,8 @@
 @import '../styles/global';
 
 .article-box {
-    margin-bottom: 30px;
+    margin-bottom: 10px;
+    padding: 10px;
     border-bottom: 1px dotted $color-pallete-6;
     display: inline-block;
     width: $container-width;
@@ -17,11 +18,16 @@
 
         }
 
+        .image {
+            border-radius: 20%;
+        }
+
         .left {
             float: left;
             width: 150px;
             height: 150px;
             background-color: $color-pallete-5;
+            border-radius: 20%;
         }
 
         .right {

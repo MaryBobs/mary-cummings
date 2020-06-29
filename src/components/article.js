@@ -7,7 +7,7 @@ export default (props) => (
     <Link to={props.to}>
         <article className={styles.articleBox} key={props.id}>
             <div className={styles.left}>
-                <img src={'https://source.unsplash.com/150x150/?' + props.keywords} alt={props.title}/>
+                <img className={styles.image} src={'https://source.unsplash.com/150x150/?' + props.keywords} alt={props.title}/>
             </div>
             <div className={styles.right}>
                 <h3>
