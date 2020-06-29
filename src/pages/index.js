@@ -1,14 +1,11 @@
 import React from 'react';
-import Layout from '../components/layout';
+import Layout from '../components/layout.js';
 import Title from '../components/title.js';
-import ArticleList from '../components/article-list';
+import Profile from '../components/profile.js';
 
 export default () => (
     <Layout>
-    <Title text="Welcome"/>
-    <ArticleList />
-
-  
+    <Title text="About Me"/>
+    <Profile />
     </Layout>
 )
-
