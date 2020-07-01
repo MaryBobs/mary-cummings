@@ -7,8 +7,8 @@
                 "slug": "urban-green",
                 "image": "./images/me.jpg",
                 "details": "This is my first project",
-                "url": "www.facebook.com",
-                "github": "www.github.com"
+                "url": "https://urbangreen.herokuapp.com",
+                "github": "https://github.com/marybobs/urban_green"
             },
             {
                 "title": "Endangered",
@@ -16,7 +16,7 @@
                 "image": "./images/postcard.jpg",
                 "details": "This is another project",
                 "url": "www.facebook.com",
-                "github": "www.github.com"
+                "github": "https://github.com/marybobs"
             },
             {
                 "title": "",
