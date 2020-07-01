@@ -1,0 +1,30 @@
+{
+    "heading": "Project List",
+    "content":
+        [
+            {
+                "title": "Urban Green",
+                "slug": "urban-green",
+                "image": "./images/me.jpg",
+                "details": "This is my first project",
+                "url": "www.facebook.com",
+                "github": "www.github.com"
+            },
+            {
+                "title": "Endangered",
+                "slug": "endangered",
+                "image": "./images/postcard.jpg",
+                "details": "This is another project",
+                "url": "www.facebook.com",
+                "github": "www.github.com"
+            },
+            {
+                "title": "",
+                "slug": "",
+                "image": "",
+                "details": "",
+                "url": "",
+                "github": ""
+            }
+        ]
+}

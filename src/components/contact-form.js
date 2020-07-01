@@ -3,8 +3,8 @@ import styles from './contact-form.module.scss';
 
 export default () => (
     <div>
-        <p>You can contact me through my LinkedIn/Twitter/Instagram. Links at the top of the page below my name</p>
-        <p>Or send me a message through the form below.</p>
+        <p>You can contact me through my LinkedIn/Twitter/Instagram links at the top of the page</p>
+        <p>Or send me a message through the form below:</p>
     <div className={styles.container}>
     <form className={styles.contactForm} method="post" action="https://formspree.io/mary@xr220.com">
         <p className={styles.to}>To: Mary Cummings</p>
@@ -16,15 +16,10 @@ export default () => (
         <label>Email:</label>
             <input type="email" name="_replyto" id="email" placeholder="Please enter your email address" required/>
         </div>
-        {/* <label>
-            Subject:
-            <input type="text" name="subject" id="subject"/>
-        </label> */}
         <div className={styles.message}>
         <label>Message:</label>
             <textarea name="message" id="message" rows="5" placeholder="Please type your message here" required/>
         </div>
-        {/* <div className={styles.button}> */}
         <button className={styles.submitButton} type="submit">Send Message >>></button>
 
         {/* <input className={styles.clearButton} type="reset" value="<<< Clear All" /> */}
