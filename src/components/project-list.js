@@ -1,9 +1,10 @@
 import React from 'react';
 import projectData from '../../data/projects.json';
 import Project from '../components/project';
+import styles from '../components/project-list.module.scss';
 
 const projectList = () => (
-    <div>
+    <div className={styles.container}>
         {projectData.content.map( (data) => {
             return <Project key={data.slug} title={data.title} image={data.image} details={data.details}
             url={data.url} github={data.github}/>

@@ -44,23 +44,23 @@
 
     .button-github {
         @extend .button-icon;
-        background-image: url('../images/github.png');
+        background-image: url('../../static/images/github.png');
 
     }
 
     .button-twitter {
         @extend .button-icon;
-        background-image: url('../images/twitter.png');
+        background-image: url('../../static/images/twitter.png');
     }
 
     .button-linkedin {
         @extend .button-icon;
-        background-image: url('../images/linkedin.png');
+        background-image: url('../../static/images/linkedin.png');
     }
 
     .button-instagram {
         @extend .button-icon;
-        background-image: url('../images/instagram.png');
+        background-image: url('../../static/images/instagram.png');
     }
 
     

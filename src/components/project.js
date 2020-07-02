@@ -1,11 +1,12 @@
 import React from 'react';
+import styles from './project.module.scss';
 
 export default (props) => (
-    <div>
+    <div className={styles.container}>
     <h1>{props.title}</h1>
-    <h2>{props.details}</h2>
-    <img src={props.image}></img>
-    <a href={props.github} target="_blank" rel="noopener noreferrer">Github Repo</a>
-    <a href={props.url} target="_blank" rel="noopener noreferrer">Site Demo</a>
+    <p>{props.details}</p>
+    <img className={styles.images} src={props.image}></img>
+    <a className={styles.button} href={props.github} target="_blank" rel="noopener noreferrer">Github Repo</a>
+    <a className={styles.button} href={props.url} target="_blank" rel="noopener noreferrer">Site Demo</a>
     </div>
 )

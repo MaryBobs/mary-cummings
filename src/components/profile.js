@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './profile.module.scss';
-import profilePicture from '../images/me.jpg';
+import profilePicture from '../../static/images/me.jpg';
 
 export default () => (
     <div className={styles.container}>

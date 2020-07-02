@@ -5,8 +5,8 @@
             {
                 "title": "Urban Green",
                 "slug": "urban-green",
-                "image": "./images/me.jpg",
-                "details": "This is my first project",
+                "image": "./images/urban-green.png",
+                "details": "A simple shop inventory system built using Ruby, Sinatra and PSQL. Designed to allow small shops to keep track of their stock, it allows the show owner to add, delete and edit stock and suppliers, display their inventory and see their stock levels and product mark-up",
                 "url": "https://urbangreen.herokuapp.com",
                 "github": "https://github.com/marybobs/urban_green"
             },
