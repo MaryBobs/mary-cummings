@@ -7,24 +7,26 @@
                 "slug": "urban-green",
                 "image": "./images/urban-green.png",
                 "details": "A simple shop inventory system built using Ruby, Sinatra and PSQL. Designed to allow small shops to keep track of their stock, it allows the show owner to add, delete and edit stock and suppliers, display their inventory and see their stock levels and product mark-up",
+                "github": "https://github.com/marybobs/urban_green",
                 "url": "https://urbangreen.herokuapp.com",
-                "github": "https://github.com/marybobs/urban_green"
+                "urltext": "DEMO version of the app"
             },
             {
                 "title": "Endangered",
                 "slug": "endangered",
-                "image": "./images/postcard.jpg",
-                "details": "This is another project",
-                "url": "www.facebook.com",
-                "github": "https://github.com/marybobs"
-            },
-            {
-                "title": "",
-                "slug": "",
-                "image": "",
-                "details": "",
-                "url": "",
-                "github": ""
+                "image": "./images/endangered.png",
+                "details": "An interactive, educational web app to teach children about endangered animals. A small group project at CodeClan, this was built using Javascript, Vue, Express and MongoDB. Users can find fun facts, try quiz questions and add animals to favourites",
+                "github": "https://github.com/MaryBobs/Endangered",
+                "url": "https://youtu.be/EaglOE5f7-U",
+                "urltext": "DEMO video of app, opens in YouTube"
             }
-        ]
+        ],
+    "comingsoon": [
+        {
+            "title": "Coming Soon!",
+            "slug": "coming-soon",
+            "image": "./images/comingsoon.jpg",
+            "details": "More projects being added soon"
+        }
+    ]
 }

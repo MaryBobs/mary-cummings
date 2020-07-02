@@ -7,6 +7,8 @@ export default (props) => (
     <p>{props.details}</p>
     <img className={styles.images} src={props.image}></img>
     <a className={styles.button} href={props.github} target="_blank" rel="noopener noreferrer">Github Repo</a>
-    <a className={styles.button} href={props.url} target="_blank" rel="noopener noreferrer">Site Demo</a>
+    <a className={styles.button} href={props.url} target="_blank" rel="noopener noreferrer">{props.urltext}</a>
     </div>
+
+    
 )
