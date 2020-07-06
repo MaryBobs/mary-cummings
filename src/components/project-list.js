@@ -9,6 +9,7 @@ const projectList = () => (
             return <Project key={data.slug} title={data.title} image={data.image} details={data.details}
             url={data.url} github={data.github} urltext={data.urltext}/>
         })}
+        <h2>More projects will be added soon!</h2>
     </div>
 )
 
