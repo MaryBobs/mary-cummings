@@ -75,6 +75,8 @@ export default () => (
                         <HeaderLink to="/" text="About"/>
                         <HeaderLink to="/projects" text="Projects"/>
                         <HeaderLink to="/contact" text="Contact"/>
+                        {/* <HeaderLink to="/games" text="Games"/> */}
+                        <HeaderLink to="/" text=""/>
                     </div>
 
                 </header>
